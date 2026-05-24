@@ -1,0 +1,6 @@
+{
+  "name": "Immersive Movie Finder",
+  "description": "An immersive movie discovery website featuring AI-powered Mood Matcher and Movie Finder tools with rich, responsive, dynamic visual environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
